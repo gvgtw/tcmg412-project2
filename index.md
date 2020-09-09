@@ -3,7 +3,7 @@ This is our first trial run of GitHub.
 
 How does this look to everyone?
 
-Dogs
+Dogs...
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 Syntax highlighted code block
