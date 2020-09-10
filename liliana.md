@@ -9,7 +9,7 @@ During my free time, I like to paint on small canvases and make earrings out of 
 
 ### Currently
 I am currently working on two certifications.
-I am studying ITIL 4 in my capstone class and the EC Council Computer Hacking Forensic Investigator through TAMU Cybersecurity Center. 
+I am studying ITIL 4 in my capstone class and the EC Council Computer Hacking Forensic Investigator (CHFI) through TAMU Cybersecurity Center. 
 
 
 
