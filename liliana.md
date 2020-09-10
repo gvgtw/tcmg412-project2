@@ -11,15 +11,10 @@ During my free time, I like to paint on small canvases and make earrings out of 
 I am currently working on two certifications.
 I am studying ITIL 4 in my capstone class and the EC Council Computer Hacking Forensic Investigator (CHFI) through TAMU Cybersecurity Center. 
 
-
-
-
-
-
-
-
-## Pictures of Me
+## Photos of My Work 
 <img src="https://gvgtw.github.io/tcmg412-project2/images/lilianapic.jpg" height="500" width="500">
+
+
 <img src="https://gvgtw.github.io/tcmg412-project2/images/liliana.jpg" height="700" width="500">
 
 
