@@ -6,7 +6,6 @@ This is a brief webiste to tell you about us or random things we find interestin
 
 I am a senior Technology Management major at Texas A&M University. I was born in Wurtzburg, Germany and have 3 cats and 3 dogs. I love tattoos and have a shoulder piece along with a half sleeve on my left arm. I will be getting some more soon. The inkmasters event is normally at the Brazos Center the first weekend of Feburary and I hope COVID doesn't cancel that as well. Ultimately, whatever is safer is fine, but tattoo fever is definitely a thing. I love to read and play games. Video game, board games, you name it, I will probably enjoy it. Michael Crichton is one of my favorite authors at the moment. Jurrassic Park is one of my favorite movies along with pretty much anything marvel related. Pictured below are all 6 of my animals.
 
-Rip Chadwick Boseman
 
 
 ![](images/Reflex%20and%20Voyd.JPG)
