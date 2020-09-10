@@ -20,8 +20,8 @@ I am studying ITIL 4 in my capstone class and the EC Council Computer Hacking Fo
 [Link](url) and ![Image](src)
 
 ## Pictures of Me
-<img src="https://gvgtw.github.io/tcmg412-project2/images/liliana.jpg" height="500" width="500">
 <img src="https://gvgtw.github.io/tcmg412-project2/images/lilianapic.jpg" height="500" width="500">
+<img src="https://gvgtw.github.io/tcmg412-project2/images/liliana.jpg" height="700" width="500">
 
 
 
