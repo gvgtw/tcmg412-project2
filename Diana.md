@@ -1,4 +1,4 @@
-## Welcome to TCMG 412 Group 3's Page
+## Welcome to Diana's Page
 
 This is a brief webiste to tell you about us or random things we find interesting.
 
