@@ -6,25 +6,13 @@ This is a brief webiste to tell you about us or random things we find interestin
 
 I am a senior Technology Management major at Texas A&M University. I was born in Wurtzburg, Germany and have 3 cats and 3 dogs.
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+For other group members see:
+[David Brown](https://guides.github.com/features/mastering-markdown/)
+[Liliana Garcia](https://guides.github.com/features/mastering-markdown/)
+[Darrian Hunter](https://guides.github.com/features/mastering-markdown/)
+[Diana Parra](https://guides.github.com/features/mastering-markdown/)
+[Todd Weaver](https://guides.github.com/features/mastering-markdown/)
 
 ### Jekyll Themes
 
