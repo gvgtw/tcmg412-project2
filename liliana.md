@@ -16,6 +16,7 @@ During my free time, I like to paint on small canvases and make earrings out of 
 I am currently working on two certifications.
 I am studying ITIL 4 in my capstone class and the EC Council Computer Hacking Forensic Investigator through TAMU Cybersecurity Center. 
 
+![Image of the John L. Hall FFG-32](https://maritimequest.com/warship_directory/us_navy_pages/frigates/photos/john_l_hall_ffg32/uss_john_l_hall_12.jpg)
 
 
 
