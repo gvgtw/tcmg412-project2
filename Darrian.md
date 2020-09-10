@@ -10,7 +10,7 @@ My favorite sports to compete in were Football and Basketball because it allowed
 
 Not only did I compete in sports but I also compete in games. I play various games like Call of Duty: Modern Warfare Warzone, Rogue Company, Fortnite, and recently Marvel's Avenger's. I have been streaming for about 4 months now but haven't been able to stream consistently due to classes and school work. When I compete in cash tournaments I usually stream live on [Twitch](https://www.twitch.tv/drheadclapper), so click the link, checkout my stream and hit that follow button while you're at it!
 
-| Column 1 Header | Column 2 Header | Column 3 Header |
+| My Sports Teams | Favorite Video Games | Favorite Movies |
 | --------------- | --------------- | --------------- |
 | Row 1 Column 1 | Row 1 Column 2 | Row 1 Column 3 |
 | Row 2 Column 1 | Row 2 Column 2 | Row 2 Column 3 |
