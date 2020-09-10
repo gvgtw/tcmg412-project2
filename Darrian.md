@@ -10,23 +10,15 @@ My favorite sports to compete in were Football and Basketball because it allowed
 
 Not only did I compete in sports but I also compete in games. I play various games like Call of Duty: Modern Warfare Warzone, Rogue Company, Fortnite, and recently Marvel's Avenger's. I have been streaming for about 4 months now but haven't been able to stream consistently due to classes and school work. When I compete in cash tournaments I usually stream live on [Twitch](https://www.twitch.tv/drheadclapper), so click the link, checkout my stream and hit that follow button while you're at it!
 
-```markdown
-Syntax highlighted code block
+## My Sports Teams
 
-# Header 1
-## Header 2
-### Header 3
+NFL - Dallas Cowboys
 
-- Bulleted
-- List
+NBA - Dallas Mavericks
 
-1. Numbered
-2. List
+MLB - Texas Rangers
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
+College - Texas A&M
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
