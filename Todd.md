@@ -3,7 +3,7 @@ What is up Y'all
 ## Todd J Weaver
 I am a Technology Management Major with a Minor in Cybersecurity. I was born Reno, Nevada, have lived in Nashville, TN, Alexandria , VA, Austin, MN, and now College Station, TX. I have 2 dogs and 0 cats.
 
-https://gvgtw.github.io/tcmg412-project2/images/Aggieland-Orch-Pic.jpg
+https://gvgtw.github.io/tcmg412-project2/images/Aggieland_Orch_Picture.jpg
 
 This is me on the right, with my Grandma on the left
 
