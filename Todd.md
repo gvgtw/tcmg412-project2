@@ -1,7 +1,7 @@
 What is up Y'all
 
 ## Todd J Weaver
-I am a Technology Management Major with a Minor in Cybersecurity
+I am a Technology Management Major with a Minor in Cybersecurity. I was born Reno, Nevada, have lived in Nashville, TN, Alexandria , VA, Austin, MN, and now College Station, TX. I have 2 dogs.
 
 
 Other Teammember's Pages:
