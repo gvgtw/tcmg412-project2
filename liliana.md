@@ -24,7 +24,7 @@ I am studying ITIL 4 in my capstone class and the EC Council Computer Hacking Fo
 
 For other group members see:
 * [Corbin Cabrera](https://gvgtw.github.io/tcmg412-project2/index)
-* [David Brown](https://guides.github.com/features/mastering-markdown/)
-* [Darrian Hunter](https://guides.github.com/features/mastering-markdown/)
-* [Diana Parra](https://guides.github.com/features/mastering-markdown/)
-* [Todd Weaver](https://guides.github.com/features/mastering-markdown/)
+* [David Brown](https://gvgtw.github.io/tcmg412-project2/David)
+* [Darrian Hunter](https://gvgtw.github.io/tcmg412-project2/Darrian)
+* [Diana Parra](https://gvgtw.github.io/tcmg412-project2/Diana)
+* [Todd Weaver](https://gvgtw.github.io/tcmg412-project2/Todd)
