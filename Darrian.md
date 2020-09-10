@@ -24,7 +24,6 @@ Not only did I compete in sports but I also compete in games. I play various gam
 
 
 
-
 To see other group members pages click the links down below:
 * [David Brown](https://gvgtw.github.io/tcmg412-project2/David)
 * [Liliana Garcia](https://gvgtw.github.io/tcmg412-project2/liliana)
