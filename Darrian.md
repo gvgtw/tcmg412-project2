@@ -6,7 +6,9 @@ Get to learn a little bit about me!
 
 Howdy, my name is Darrian Hunter. I am from a small town called Coleman, Tx and I love sports, gaming and working out. I am a Technology Management major here at Texas A&M and I am class of 2021. Growing up in a small town allowed me to compete in whatever sport interested me. Throughout my years in Coleman I played Football, Basketball, Baseball, Tennis, Cross Country and Track. 
 
-My favorite sports to compete in were Football and Basketball because it allowed me to achieve a goal by working with my friends/teammates while also forming bonds that I will remember forever. I have always been competitive at everything I do and always give it my 110%. Not only did I compete in sports but I also compete in games. I play various games like Call of Duty: Modern Warfare Warzone, Rogue Company, Fortnite, and recently Marvel's Avenger's. When I compete in cash tournaments I usually stream live on Twitch, so click the link, checkout my stream and hit that follow button while you're at it!
+My favorite sports to compete in were Football and Basketball because it allowed me to achieve a goal by working with my friends/teammates while also forming bonds that I will remember forever. Sports taught me the importance of teamwork in order to achieve a goal and with good teamwork you can ahieve anything you set your mind to. Sports helped mold my work ethic and fueled me to be competitive in everything I do and always give it 110%.
+
+Not only did I compete in sports but I also compete in games. I play various games like Call of Duty: Modern Warfare Warzone, Rogue Company, Fortnite, and recently Marvel's Avenger's. I have been streaming for about 4 months now but haven't been able to stream consistently due to classes and school work. When I compete in cash tournaments I usually stream live on Twitch, so click the link, checkout my stream and hit that follow button while you're at it!
 
 ```markdown
 Syntax highlighted code block
