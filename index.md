@@ -9,6 +9,12 @@ I am a senior Technology Management major at Texas A&M University. I was born in
 Rip Chadwick Boseman
 
 
+![](Reflex%20and%20Voyd.JPG)
+![](Zig%20and%20Adira.JPG)
+![](Charlie.png)
+![](Zig%20and%20Loki.PEG)
+
+
 For other group members see:
 [David Brown](https://gvgtw.github.io/tcmg412-project2/David)
 [Liliana Garcia](https://gvgtw.github.io/tcmg412-project2/liliana)
