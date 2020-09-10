@@ -8,7 +8,7 @@ Howdy, my name is Darrian Hunter. I am from a small town called Coleman, Tx and 
 
 My favorite sports to compete in were Football and Basketball because it allowed me to achieve a goal by working with my friends/teammates while also forming bonds that I will remember forever. Sports taught me the importance of teamwork in order to achieve a goal and with good teamwork you can ahieve anything you set your mind to. Sports helped mold my work ethic and fueled me to be competitive in everything I do and always give it 110%.
 
-Not only did I compete in sports but I also compete in games. I play various games like Call of Duty: Modern Warfare Warzone, Rogue Company, Fortnite, and recently Marvel's Avenger's. I have been streaming for about 4 months now but haven't been able to stream consistently due to classes and school work. When I compete in cash tournaments I usually stream live on Twitch, so click the link, checkout my stream and hit that follow button while you're at it!
+Not only did I compete in sports but I also compete in games. I play various games like Call of Duty: Modern Warfare Warzone, Rogue Company, Fortnite, and recently Marvel's Avenger's. I have been streaming for about 4 months now but haven't been able to stream consistently due to classes and school work. When I compete in cash tournaments I usually stream live on [Twitch](https://www.twitch.tv/drheadclapper), so click the link, checkout my stream and hit that follow button while you're at it!
 
 ```markdown
 Syntax highlighted code block
