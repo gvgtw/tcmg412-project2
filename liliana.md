@@ -21,14 +21,9 @@ I am studying ITIL 4 in my capstone class and the EC Council Computer Hacking Fo
 
 
 
+
 [Link](url) and ![Image](src)
 ```
-
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/gvgtw/tcmg412-project2/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
 For other group members see:
 [David Brown](https://guides.github.com/features/mastering-markdown/)
 [Liliana Garcia](https://guides.github.com/features/mastering-markdown/)
