@@ -1,12 +1,10 @@
 ## Welcome to TCMG 412 Group 3's Page
 
-You can use the [editor on GitHub](https://github.com/gvgtw/tcmg412-project2/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+This is a brief webiste to tell you about us or random things we find interesting.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Corbin Cabrera
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I am a senior Technology Management major at Texas A&M University. I was born in Wurtzburg, Germany and have 3 cats and 3 dogs.
 
 ```markdown
 Syntax highlighted code block
