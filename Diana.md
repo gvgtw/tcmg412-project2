@@ -6,8 +6,8 @@ I am a senior studying Technical Management at TAMU. I was born and raised in La
 
 
 For other group members see:
-[David Brown](https://gvgtw.github.io/tcmg412-project2/David)
-[Liliana Garcia](https://gvgtw.github.io/tcmg412-project2/liliana)
-[Darrian Hunter](https://gvgtw.github.io/tcmg412-project2/Darrian)
-[Diana Parra](https://gvgtw.github.io/tcmg412-project2/Diana)
-[Todd Weaver](https://gvgtw.github.io/tcmg412-project2/Todd)
+ * [David Brown](https://gvgtw.github.io/tcmg412-project2/David)
+ * [Corbin Carbrera](https://gvgtw.github.io/tcmg412-project2/index)
+ * [Liliana Garcia](https://gvgtw.github.io/tcmg412-project2/liliana)
+ * [Darrian Hunter](https://gvgtw.github.io/tcmg412-project2/Darrian)
+ * [Todd Weaver](https://gvgtw.github.io/tcmg412-project2/Todd)
