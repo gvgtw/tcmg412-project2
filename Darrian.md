@@ -12,9 +12,9 @@ Not only did I compete in sports but I also compete in games. I play various gam
 
 | My Sports Teams | Favorite Video Games | Favorite Movies |
 | --------------- | --------------- | --------------- |
-| Row 1 Column 1 | Row 1 Column 2 | Row 1 Column 3 |
-| Row 2 Column 1 | Row 2 Column 2 | Row 2 Column 3 |
-| Row 3 Column 1 | Row 3 Column 2 | Row 3 Column 3 |
+| NFL - Dallas Cowboys | Halo 3/Reach | Row 1 Column 3 |
+| NBA - Dallas Mavericks | Destiny | Row 2 Column 3 |
+| MLB - Texas Rangers | Call of Duty: Black Ops 2 | Row 3 Column 3 |
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
