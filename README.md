@@ -7,9 +7,9 @@ TCMG 412 - 500
 
 
 Team Members:
-David Brown
-Corbin Carbrera
-Liliana Garcia
-Darrian Hunter
-Diana Parra
+David Brown, 
+Corbin Carbrera, 
+Liliana Garcia, 
+Darrian Hunter, 
+Diana Parra, 
 Todd Weaver
