@@ -20,7 +20,7 @@ Not only did I compete in sports but I also compete in games. I play various gam
 
 ## Football Pictures of Me
 <img src="https://gvgtw.github.io/tcmg412-project2/images/CHS%20Football%205.jpg" height="300" width="375">
-<img src="https://gvgtw.github.io/tcmg412-project2/images/CHS%20Football.jpg" height="375" width="265">
+<img src="https://gvgtw.github.io/tcmg412-project2/images/CHS%20Football.jpg" height="375" width="250">
 
 
 
