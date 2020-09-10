@@ -3,7 +3,7 @@ I am a Senior Technology Management major, with a minor in Business and Cybersec
 I was born and raised in Houston, Texas. 
 
 ### Hobbies
-I like to be crafty and work with my hands. I received my cosmeotlogy license in high school and really enjoy cutting hair.
+I like to be crafty and work with my hands. I received my cosmetology license in high school and really enjoy cutting hair.
 During my free time, I like to paint on small canvases and make earrings out of resin. 
 
 
