@@ -19,7 +19,7 @@ I am studying ITIL 4 in my capstone class and the EC Council Computer Hacking Fo
 <img src="https://gvgtw.github.io/tcmg412-project2/images/liliana.jpg" height="700" width="500">
 
 
-
+Fun Fact: Polar Bears are so good at conserving heat, they are nearly undetectable by infared cameras.
 
 
 For other group members see:
