@@ -1,7 +1,7 @@
 What is up Y'all
 
 ## Todd J Weaver
-
+I am a Technology Management Major with a Minor in Cybersecurity
 
 
 Other Teammember's Pages:
