@@ -4,7 +4,9 @@ This is a brief webiste to tell you about us or random things we find interestin
 
 ### Corbin Cabrera
 
-I am a senior Technology Management major at Texas A&M University. I was born in Wurtzburg, Germany and have 3 cats and 3 dogs.
+I am a senior Technology Management major at Texas A&M University. I was born in Wurtzburg, Germany and have 3 cats and 3 dogs. I love tattoos and have a shoulder piece along with a half sleeve on my left arm. I will be getting some more soon. The inkmasters event is normally at the Brazos Center the first weekend of Feburary and I hope COVID doesn't cancel that as well. Ultimately, whatever is safer is fine, but tattoo fever is definitely a thing. I love to read and play games. Video game, board games, you name it, I will probably enjoy it. Michael Crichton is one of my favorite authors at the moment. Jurrassic Park is one of my favorite movies along with pretty much anything marvel related.
+
+Rip Chadwick Boseman
 
 
 For other group members see:
@@ -13,11 +15,3 @@ For other group members see:
 [Darrian Hunter](https://gvgtw.github.io/tcmg412-project2/Darrian)
 [Diana Parra](https://gvgtw.github.io/tcmg412-project2/Diana)
 [Todd Weaver](https://gvgtw.github.io/tcmg412-project2/Todd)
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/gvgtw/tcmg412-project2/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
