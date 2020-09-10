@@ -31,6 +31,7 @@ For other group members see:
 <!-- # **Bold** and _Italic_ and `Code` text -->
 
 ![Image of the John L. Hall FFG-32](https://maritimequest.com/warship_directory/us_navy_pages/frigates/photos/john_l_hall_ffg32/uss_john_l_hall_12.jpg)
+
 [Link to Frigate History!](https://en.wikipedia.org/wiki/Frigate)
 <!-- For more details see GitHub Flavored Markdown. -->
 
