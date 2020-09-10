@@ -1,8 +1,6 @@
-## Howdy and welcome to my page!
+# Howdy and welcome to Darrian's page!
 
-You can use the [editor on GitHub](https://github.com/gvgtw/tcmg412-project2/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Get to learn a little bit about me!
 
 ### Markdown
 
