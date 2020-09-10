@@ -18,6 +18,7 @@ Team Members:
  1. First add your image or images you want to use on your webpage in the "images" folder
  
  2. Once you have done that add your images file name exactly how it is to the end of this link: https://gvgtw.github.io/tcmg412-project2/images/
+ 
  Example: If my image file name was "Cat 5.jpg" I would put https://gvgtw.github.io/tcmg412-project2/images/Cat 5.jpg
  
  3. If that works correctly it should bring you to a page with the image you put at the end of the link.
