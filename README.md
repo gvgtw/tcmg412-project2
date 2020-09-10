@@ -26,4 +26,4 @@ Team Members:
  4. Copy that link and put it on your webpage by using the markdown method ![image](link you copied)
     or you can use the HTML version like I did in order to resize the picture to your liking.
     
- 5. To see the HTML code for resizing, look at my code on Darrian's.md
+ 5. To see the HTML code for resizing, look at my code on Darrian.md
