@@ -17,7 +17,7 @@ Not only did I compete in sports but I also compete in games. I play various gam
 | NBA - Dallas Mavericks | Destiny | The 100 |
 | MLB - Texas Rangers | Call of Duty: Black Ops 2 | Family Guy |
 
-To see other group members pages click the links below:
+To see other group members pages click the links:
 [David Brown](https://gvgtw.github.io/tcmg412-project2/David)
 [Liliana Garcia](https://gvgtw.github.io/tcmg412-project2/liliana)
 [Corbin Cabrera](https://gvgtw.github.io/tcmg412-project2)
