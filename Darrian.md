@@ -17,6 +17,22 @@ Not only did I compete in sports but I also compete in games. I play various gam
 | NBA - Dallas Mavericks | Destiny | The 100 |
 | MLB - Texas Rangers | Call of Duty: Black Ops 2 | Family Guy |
 
+
+## Football Pictures of Me
+![image](https://gvgtw.github.io/tcmg412-project2/images/CHS%20Football%205.jpg)
+
+
+
+
+
+
+
+
+
+
+
+
+
 To see other group members pages click the links:
 [David Brown](https://gvgtw.github.io/tcmg412-project2/David)
 [Liliana Garcia](https://gvgtw.github.io/tcmg412-project2/liliana)
