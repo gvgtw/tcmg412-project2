@@ -17,12 +17,9 @@ Not only did I compete in sports but I also compete in games. I play various gam
 | NBA - Dallas Mavericks | Destiny | The 100 |
 | MLB - Texas Rangers | Call of Duty: Black Ops 2 | Family Guy |
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/gvgtw/tcmg412-project2/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+To see other group members pages click the links below:
+[David Brown](https://gvgtw.github.io/tcmg412-project2/David)
+[Liliana Garcia](https://gvgtw.github.io/tcmg412-project2/liliana)
+[Corbin Cabrera](https://gvgtw.github.io/tcmg412-project2)
+[Diana Parra](https://gvgtw.github.io/tcmg412-project2/Diana)
+[Todd Weaver](https://gvgtw.github.io/tcmg412-project2/Todd)
