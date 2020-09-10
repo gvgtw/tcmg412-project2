@@ -2,23 +2,24 @@
 I am a Senior Technology Management major, with a minor in Business and Cybersecurity. 
 
 ### Hometown
+I was born and raised in Houston, Texas. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+img
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+### Hobbies
+I like to be crafty and work with my hands. I received my cosmeotlogy license in high school and really enjoy cutting hair.
+During my free time, I like to paint on small canvases and make earrings out of resin. 
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+### Currently
+I am currently working on two certifications.
+I am studying ITIL 4 in my capstone class and the EC Council Computer Hacking Forensic Investigator through TAMU Cybersecurity Center. 
 
-**Bold** and _Italic_ and `Code` text
+
+
+
+
 
 [Link](url) and ![Image](src)
 ```
