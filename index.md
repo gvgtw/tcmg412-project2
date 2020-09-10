@@ -8,11 +8,11 @@ I am a senior Technology Management major at Texas A&M University. I was born in
 
 
 For other group members see:
-[David Brown](https://guides.github.com/features/mastering-markdown/)
-[Liliana Garcia](https://guides.github.com/features/mastering-markdown/)
-[Darrian Hunter](https://guides.github.com/features/mastering-markdown/)
-[Diana Parra](https://guides.github.com/features/mastering-markdown/)
-[Todd Weaver](https://guides.github.com/features/mastering-markdown/)
+[David Brown](https://gvgtw.github.io/tcmg412-project2/David)
+[Liliana Garcia](https://gvgtw.github.io/tcmg412-project2/liliana)
+[Darrian Hunter](https://gvgtw.github.io/tcmg412-project2/Darrian)
+[Diana Parra](https://gvgtw.github.io/tcmg412-project2/Diana)
+[Todd Weaver](https://gvgtw.github.io/tcmg412-project2/Todd)
 
 ### Jekyll Themes
 
