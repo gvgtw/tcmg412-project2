@@ -1,6 +1,6 @@
 Welcome to TCMG 412 Group 3's Page
 
-Because Stone Cold Said So!
+My name is David Brown and I was born in Ponca City, OK. I served in the United States Navy onboard two guided missile frigates and did tours in the Persian in 1994 & 1995. I have been a full-time employee at TAMU for the past 17 years 9 months and while working @TAMU I went back to school @Blinn College and received my Information Adminstration degree and then was asked to join the teaching staff @Blinn part-time. I was an instructor part-time @Blinn for 9 years while working full-time @TAMU.
 <!-- You can use the editor on GitHub to maintain and preview the content for your website in Markdown files. --> 
 
 <!-- # Whenever you commit to this repository, GitHub Pages will run Jekyll to rebuild the pages in your site, from the content in your Markdown files. -->
@@ -30,7 +30,7 @@ For other group members see:
 
 <!-- # **Bold** and _Italic_ and `Code` text -->
 
-[Link](url) and ![Image](src)
+[Link to Frigate History!](https://en.wikipedia.org/wiki/Frigate) and ![Image](src)
 For more details see GitHub Flavored Markdown.
 
 <!--Jekyll Themes
