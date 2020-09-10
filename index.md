@@ -12,7 +12,7 @@ Rip Chadwick Boseman
 ![](images/Reflex%20and%20Voyd.JPG)
 ![](images/Zig%20and%20Adira.JPG)
 ![](images/Charlie.png)
-![](images/Zig%20and%20Loki.PEG)
+![](images/Zig%20and%20Loki.JPEG)
 
 
 For other group members see:
