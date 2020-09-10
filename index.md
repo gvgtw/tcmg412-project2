@@ -9,10 +9,10 @@ I am a senior Technology Management major at Texas A&M University. I was born in
 Rip Chadwick Boseman
 
 
-![](Reflex%20and%20Voyd.JPG)
-![](Zig%20and%20Adira.JPG)
-![](Charlie.png)
-![](Zig%20and%20Loki.PEG)
+![](images/Reflex%20and%20Voyd.JPG)
+![](images/Zig%20and%20Adira.JPG)
+![](images/Charlie.png)
+![](images/Zig%20and%20Loki.PEG)
 
 
 For other group members see:
