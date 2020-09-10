@@ -1,6 +1,7 @@
-## Howdy, welcome to Liliana's Page!
+## Howdy! Welcome to Liliana's Page!
+I am a Senior Technology Management major, with a minor in Business and Cybersecurity. 
 
-### Howdy
+### Hometown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
