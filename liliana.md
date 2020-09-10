@@ -4,7 +4,7 @@ I am a Senior Technology Management major, with a minor in Business and Cybersec
 ### Hometown
 I was born and raised in Houston, Texas. 
 
-img
+
 
 
 ### Hobbies
@@ -24,7 +24,6 @@ I am studying ITIL 4 in my capstone class and the EC Council Computer Hacking Fo
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
 
