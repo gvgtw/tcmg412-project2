@@ -1,35 +1,6 @@
-## Welcome to Diana's Page
+### Howdy!!
 
-This is a brief webiste to tell you about us or random things we find interesting.
+## Diana Parra
 
-### Name
+I am a senior studying Technical Management at TAMU. I was born and raised in Laredo, Tx. I have a puppy named Max and a hamster named AJ. My hobbies include being handy, grilling, playing video games, and traveling. At the beginning year I got the chance to visit Colorado and Disney World with my girlfriend. This was before COVID got out of hand in the U.S. Traveling is one of my favorite things to do, and I am looking forward going to California whenever things start looking better.     
 
-desc
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/gvgtw/tcmg412-project2/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
