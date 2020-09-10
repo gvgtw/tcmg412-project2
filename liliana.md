@@ -19,7 +19,11 @@ I am studying ITIL 4 in my capstone class and the EC Council Computer Hacking Fo
 
 [Link](url) and ![Image](src)
 
-![Image of Liliana FFG-32](https://drive.google.com/file/d/1EZVm5u6anC5-eS19ijnHWP396v84-als/view?usp=sharing)
+## Pictures of Me
+<img src="https://gvgtw.github.io/tcmg412-project2/images/liliana.jpg" height="300" width="375">
+<img src="https://gvgtw.github.io/tcmg412-project2/images/lilianapic.jpg" height="375" width="250">
+
+
 
 
 ``
