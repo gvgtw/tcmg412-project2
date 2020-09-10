@@ -2,9 +2,9 @@
 
 This is a brief webiste to tell you about us or random things we find interesting.
 
-### Corbin Cabrera
+### Name
 
-I am a senior Technology Management major at Texas A&M University. I was born in Wurtzburg, Germany and have 3 cats and 3 dogs.
+desc
 
 ```markdown
 Syntax highlighted code block
