@@ -4,6 +4,7 @@ I was born and raised in Houston, Texas.
 
 ### Hobbies
 I like to be crafty and work with my hands. I received my cosmetology license in high school and really enjoy cutting hair.
+I've been working at a hair salon in South College Station for the past two years. 
 During my free time, I like to paint on small canvases and make earrings out of resin. 
 
 
