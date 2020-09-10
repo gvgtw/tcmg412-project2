@@ -27,3 +27,7 @@ Team Members:
     or you can use the HTML version like I did in order to resize the picture to your liking.
     
  5. To see the HTML code for resizing, look at my code on Darrian.md
+ 
+ 6. If you are putting multiple photos like I did you must put separate unique links for each of them.
+ 
+ Thanks and Gig'em!
