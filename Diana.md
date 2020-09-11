@@ -9,6 +9,9 @@ I am a senior studying Technical Management at TAMU. I was born and raised in La
 
 My favorite game at the moment is Apex Legends, and I currently play on Xbox. My all-time favorite video game is Bully: Scholarship Edition. Besides playing video games, I like to work on side projects. My latest project was working with Raspberry Pi. I found repo on Github that plays music with RFID cards that integrate with Spotify. If you would like to see more on this project, check it out [here](https://github.com/hoveeman/music-cards).  
 
+## Random Fun Fact
+7% of American adults believe that chocolate milk comes from brown cows.
+
 For other group members see:
  * [David Brown](https://gvgtw.github.io/tcmg412-project2/David)
  * [Corbin Carbrera](https://gvgtw.github.io/tcmg412-project2/index)
