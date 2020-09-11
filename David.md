@@ -16,6 +16,7 @@ For other group members see:
 <!-- [Darrian Hunter](https://guides.github.com/features/mastering-markdown/) -->
 <!-- [Diana Parra](https://guides.github.com/features/mastering-markdown/) -->
 <!-- [Todd Weaver](https://guides.github.com/features/mastering-markdown/) -->
+[Nathan Browning](https://gvgtw.github.io/tcmg412-project2/nathan)
 [Corbin Cabrera](https://gvgtw.github.io/tcmg412-project2/index)
 [Liliana Garcia](https://gvgtw.github.io/tcmg412-project2/liliana)
 [Darrian Hunter](https://gvgtw.github.io/tcmg412-project2/Darrian)
