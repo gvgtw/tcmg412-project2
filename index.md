@@ -16,6 +16,7 @@ I am a senior Technology Management major at Texas A&M University. I was born in
 
 For other group members see:
 [David Brown](https://gvgtw.github.io/tcmg412-project2/David)
+[Nathan Browning](https://gvgtw.github.io/tcmg412-project2/nathan)
 [Liliana Garcia](https://gvgtw.github.io/tcmg412-project2/liliana)
 [Darrian Hunter](https://gvgtw.github.io/tcmg412-project2/Darrian)
 [Diana Parra](https://gvgtw.github.io/tcmg412-project2/Diana)
