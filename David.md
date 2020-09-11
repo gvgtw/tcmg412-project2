@@ -32,6 +32,8 @@ For other group members see:
 
 ![Image of the John L. Hall FFG-32](https://maritimequest.com/warship_directory/us_navy_pages/frigates/photos/john_l_hall_ffg32/uss_john_l_hall_12.jpg)
 
+FUN FACT!: Each pineapple takes 1.5-3 years to grow
+
 [Link to Frigate History!](https://en.wikipedia.org/wiki/Frigate)
 <!-- For more details see GitHub Flavored Markdown. -->
 
