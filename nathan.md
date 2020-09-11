@@ -11,6 +11,9 @@ I am a member of the Fightin' Aggie Band and have the privelage this year of ser
 <img src="https://gvgtw.github.io/tcmg412-project2/images/nathan-mountain.jpg">
 <img src="https://gvgtw.github.io/tcmg412-project2/images/winston.jpg">
 
+
+"If you think you are too small to make a difference, try sleeping with a mosquito." - Dalai Lama
+
 ### Book Recomendation
 If you want listen to something that will make you feel like your problems are small as hell and you might just be the laziest thing on earth I recomend listening to the audiobook Can't Hurt Me by David Goggins. Recomend the audio version because there is a little bit of extra comentary and stuff that add to it.
 
