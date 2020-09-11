@@ -8,6 +8,7 @@ I am a Technology Management Major with a Minor in Cybersecurity. I was born Ren
 
 This is me on the right, with my Grandma on the left
 
+### Fun Fact!
 "The Duke" John Wayne's born name is Marion Robert Morrison
 
 Other Teammember's Pages:
