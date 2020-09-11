@@ -12,6 +12,7 @@ This is me on the right, with my Grandma on the left
 
 Other Teammember's Pages:
  * [David Brown](https://gvgtw.github.io/tcmg412-project2/David)
+ * [Nathan Browning](https://gvgtw.github.io/tcmg412-project2/nathan)
  * [Liliana Garcia](https://gvgtw.github.io/tcmg412-project2/liliana)
  * [Darrian Hunter](https://gvgtw.github.io/tcmg412-project2/Darrian)
  * [Diana Parra](https://gvgtw.github.io/tcmg412-project2/Diana)
