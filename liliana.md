@@ -23,6 +23,7 @@ Fun Fact: Polar Bears are so good at conserving heat, they are nearly undetectab
 
 
 For other group members see:
+* [Nathan Browning](https://gvgtw.github.io/tcmg412-project2/nathan)
 * [Corbin Cabrera](https://gvgtw.github.io/tcmg412-project2/index)
 * [David Brown](https://gvgtw.github.io/tcmg412-project2/David)
 * [Darrian Hunter](https://gvgtw.github.io/tcmg412-project2/Darrian)
