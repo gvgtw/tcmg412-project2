@@ -26,6 +26,7 @@ Not only did I compete in sports but I also compete in games. I play various gam
 
 To see other group members pages click the links down below:
 * [David Brown](https://gvgtw.github.io/tcmg412-project2/David)
+* [Nathan Browning](https://gvgtw.github.io/tcmg412-project2/nathan)
 * [Liliana Garcia](https://gvgtw.github.io/tcmg412-project2/liliana)
 * [Corbin Cabrera](https://gvgtw.github.io/tcmg412-project2)
 * [Diana Parra](https://gvgtw.github.io/tcmg412-project2/Diana)
