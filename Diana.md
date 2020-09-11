@@ -14,6 +14,7 @@ My favorite game at the moment is Apex Legends, and I currently play on Xbox. My
 
 For other group members see:
  * [David Brown](https://gvgtw.github.io/tcmg412-project2/David)
+ * [Nathan Browning](https://gvgtw.github.io/tcmg412-project2/nathan)
  * [Corbin Carbrera](https://gvgtw.github.io/tcmg412-project2/index)
  * [Liliana Garcia](https://gvgtw.github.io/tcmg412-project2/liliana)
  * [Darrian Hunter](https://gvgtw.github.io/tcmg412-project2/Darrian)
