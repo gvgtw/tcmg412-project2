@@ -23,6 +23,7 @@ Not only did I compete in sports but I also compete in games. I play various gam
 <img src="https://gvgtw.github.io/tcmg412-project2/images/CHS%20Football.jpg" height="375" width="250">
 
 
+Fun Fact: Hawaii moves 7.5cm closer to Alaska every year.
 
 To see other group members pages click the links down below:
 * [David Brown](https://gvgtw.github.io/tcmg412-project2/David)
