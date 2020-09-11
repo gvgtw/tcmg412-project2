@@ -5,6 +5,8 @@ I am a Technology Management Major with a Minor in Cybersecurity. I was born Ren
 
 <img src="https://gvgtw.github.io/tcmg412-project2/images/Aggieland_Orch_Picture.jpg">
 
+"The Duke" John Wayne's born name is Marion Robert Morrison
+
 This is me on the right, with my Grandma on the left
 
 Other Teammember's Pages:
@@ -13,3 +15,4 @@ Other Teammember's Pages:
  * [Darrian Hunter](https://gvgtw.github.io/tcmg412-project2/Darrian)
  * [Diana Parra](https://gvgtw.github.io/tcmg412-project2/Diana)
  * [Corbin Carbrera](https://gvgtw.github.io/tcmg412-project2/index)
+
