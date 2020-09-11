@@ -21,3 +21,4 @@ For other group members see:
 [Darrian Hunter](https://gvgtw.github.io/tcmg412-project2/Darrian)
 [Diana Parra](https://gvgtw.github.io/tcmg412-project2/Diana)
 [Todd Weaver](https://gvgtw.github.io/tcmg412-project2/Todd)
+[Nathan Browning](https://gvgtw.github.io/tcmg412-project2/nathan)
