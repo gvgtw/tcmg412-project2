@@ -40,6 +40,7 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ## Random Fun Fact
 During your lifetime, you will produce enough saliva to fill two swimming pools.
+Each pineapple takes 1.5-3 years to grow
 
 Support or Contact
 Having trouble with Pages? Check out our documentation or contact support and we’ll help you sort it out.
