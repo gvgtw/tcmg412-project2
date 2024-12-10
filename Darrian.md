@@ -23,7 +23,7 @@ Not only did I compete in sports but I also compete in games. I play various gam
 <img src="https://gvgtw.github.io/tcmg412-project2/images/CHS%20Football.jpg" height="375" width="250">
 
 
-
+Fun fact: the human teeth are the only part of the body that cannot heal themselves.
 To see other group members pages click the links down below:
 * [David Brown](https://gvgtw.github.io/tcmg412-project2/David)
 * [Nathan Browning](https://gvgtw.github.io/tcmg412-project2/nathan)
